@@ -1,16 +1,15 @@
-# getx_to_do_app
+# To-do app
 
-A new Flutter project.
+Creacion de aplicación mobile en Flutter.
 
-## Getting Started
+Creation of mobile application in Flutter.
 
-This project is a starting point for a Flutter application.
+## App with Flutter
 
-A few resources to get you started if this is your first Flutter project:
+En este repositorio encontrarás una app simple usando GetX y GetStorage.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+In this repository you will find a simple app using GetX and GetStorage.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---------------------------------------------------------------------------------------------------------
+![foto de cabecera](https://cdn.dribbble.com/users/2947819/screenshots/15475209/media/429371ad39efd45ffeddf587b2e8c6e3.png)
+![image](https://user-images.githubusercontent.com/55060895/186778753-81f4a35a-224d-4176-afcb-debc89635e33.png)
